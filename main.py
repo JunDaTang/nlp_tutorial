@@ -1,5 +1,5 @@
 def main():
-    print("Hello from python-demo-template!")
+    print("Hello from nlp-tutorial!")
 
 
 if __name__ == "__main__":
