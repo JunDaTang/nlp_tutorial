@@ -1,0 +1,42 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 12046464,
+  "description": "",
+  "download_checksums": {
+    "D:/Projects/NLP/nlp_tutorial/ch07_pretrained_model/./data/raw/online_shopping_10_cats.csv": {
+      "num_bytes": 11299692,
+      "checksum": null
+    }
+  },
+  "download_size": 11299692,
+  "features": {
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "review": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 23346156,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 12046464,
+      "num_examples": 62774,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
